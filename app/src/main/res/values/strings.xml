@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrisutnostMMJ</string>
+    <string name="edit">Ime Prezime</string>
+    <string name="button">Dodaj</string>
+</resources>
